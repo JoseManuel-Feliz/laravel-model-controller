@@ -7,7 +7,7 @@
     <meta name="viweport" content="width=device-width, initial-scale=1.0">
     @yield('cdn', '')
 
-    <title>@yield('page title','')</title>
+    <title>@yield('page-title','')</title>
 </head>
 
 <body>
